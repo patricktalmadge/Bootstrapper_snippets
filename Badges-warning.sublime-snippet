@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Badges::warning(${1:"Text"});]]></content>
+    <tabTrigger>badge warning</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Badges::warning('badge text')</description>
+</snippet>

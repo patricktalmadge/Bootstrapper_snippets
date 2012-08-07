@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Badges::success(${1:"Text"});]]></content>
+    <tabTrigger>badge success</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Badges::success('badge text')</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Alert::error(${1:"<strong>Warning!</strong> This is your message."});]]></content>
+    <tabTrigger>alert error</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Alert::error('message')</description>
+</snippet>

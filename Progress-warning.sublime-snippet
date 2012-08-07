@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Progress::warning(${1:45});]]></content>
+    <tabTrigger>progress warning</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Progress::warning(percent)</description>
+</snippet>

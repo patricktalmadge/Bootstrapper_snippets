@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Form::block_help(${1:"help text"});]]></content>
+    <tabTrigger>block_help</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Form::block_help("...")</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Breadcrumbs::create(${1:array('Home' => '#', 'Library' => '#', 'Data')});]]></content>
+    <tabTrigger>breadcrumbs</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Breadcrumbs::create(array('Home' => '#', 'Library' => '#', 'Data'))</description>
+</snippet>

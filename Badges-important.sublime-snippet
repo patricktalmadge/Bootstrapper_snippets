@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Badges::important(${1:"Text"});]]></content>
+    <tabTrigger>badge important</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Badges::important('badge text')</description>
+</snippet>

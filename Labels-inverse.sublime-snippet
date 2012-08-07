@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Labels::inverse(${1:"Text"});]]></content>
+    <tabTrigger>label inverse</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Labels::inverse('label text')</description>
+</snippet>

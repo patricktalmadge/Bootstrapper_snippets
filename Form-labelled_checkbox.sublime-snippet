@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Form::labelled_checkbox(${1:"Name"}, ${2:"label"});]]></content>
+    <tabTrigger>labelled_checkbox</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Form::labelled_checkbox($name, $label)</description>
+</snippet>

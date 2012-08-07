@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Progress::success(${1:45});]]></content>
+    <tabTrigger>progress success</tabTrigger>
+    <scope>source.php</scope>
+    <description>Bootstrapper: Progress::success(percent)</description>
+</snippet>
